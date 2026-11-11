@@ -1,0 +1,48 @@
+{
+  "rows": 9564,
+  "columns": 12,
+  "duplicate_rows": 0,
+  "unique_stars": 8214,
+  "raw_missing": {
+    "kepid": 0,
+    "kepoi_name": 0,
+    "koi_disposition": 0,
+    "koi_score": 0,
+    "koi_period": 0,
+    "koi_prad": 0,
+    "koi_teq": 0,
+    "koi_insol": 0,
+    "koi_steff": 0,
+    "koi_srad": 0,
+    "koi_slogg": 0,
+    "koi_kepmag": 0
+  },
+  "prepared_missing": {
+    "koi_period": 0,
+    "koi_prad": 0,
+    "koi_teq": 0,
+    "koi_insol": 0,
+    "koi_steff": 0,
+    "koi_srad": 0,
+    "koi_slogg": 0,
+    "koi_kepmag": 0
+  },
+  "class_counts": {
+    "0": 4839,
+    "1": 1982,
+    "2": 2743
+  },
+  "training_rows": 6681,
+  "evaluation_rows": 2883,
+  "star_overlap": 0,
+  "training_class_counts": {
+    "0": 3400,
+    "1": 1380,
+    "2": 1901
+  },
+  "evaluation_class_counts": {
+    "0": 1439,
+    "1": 602,
+    "2": 842
+  }
+}
